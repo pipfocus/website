@@ -58,6 +58,8 @@ If we make changes to this privacy policy, we will update the "Last updated" dat
 If you have questions about this privacy policy, please visit our website:
 https://pipfocus.github.io/website/
 
+You can also reach out on Twitter: [@pip_focus](https://twitter.com/pip_focus) or Instagram: [@pip_focus](https://instagram.com/pip_focus)
+
 ---
 
 **TL;DR:** Pip Focus stores your settings locally in your browser. We don't collect any data. Period.

@@ -7,46 +7,28 @@
 Pip Focus
 
 ## Summary (132 chars max - appears in search results)
-Block distracting websites with one click. Custom timers, focus stats, streak tracking. No ads, no tracking. Free & open source.
+Block distracting websites instantly. One-click toggle, custom timers, focus stats with pattern hotspots. 100% free, private.
 
 ## Description (for store listing)
 
-**One simple thing, done well.**
-
-I built Pip because my brain keeps procrastinating. One second I'm working, the next I'm on Twitter "monitoring the situation" or watching YouTube. Sound familiar?
-
-So I stopped expecting willpower to save me and built this instead. When you turn it on, it blocks the websites you waste time on. Set a timer, and those sites stop loading. That's it.
+Block distracting websites instantly. One click to start, hold to disable. Set timers or block indefinitely. Track your focus with stats, pattern hotspots, and streaks.
 
 **What it does:**
 
-• Block any website — YouTube, Twitter/X, Reddit, Instagram, TikTok, Facebook, you name it
-• One-click toggle — No complicated settings. Just click and distractions stop
-• Hold to disable — Prevents "just one quick check" moments (you know the ones)
-• Flexible timers — 5 minutes to 2 hours, custom duration, or block indefinitely
-• Focus stats — Track your daily, weekly, monthly focus time
-• Streak tracking — See how many days you've stayed consistent
-• Smart wildcards — *youtube.com blocks all subdomains, https://youtube.com blocks exact match only
-
-**Why it's different:**
-
-Most productivity tools are distracting themselves. This one stays quiet and gets out of the way. No gamification, no social features, no premium upsells. Just a simple blocker that works.
+• Block any website — YouTube, Twitter, Reddit, Instagram, TikTok, Facebook, or any site
+• One-click toggle — Turn focus mode on/off instantly. No setup needed
+• Hold to disable — Prevents accidental disabling during active sessions
+• Custom timers — 5 minutes to 2 hours, or block indefinitely
+• Focus stats — Daily, weekly, monthly charts with pattern hotspots showing your peak hours and weekly rhythm
+• Streak tracking — Current and best streak records
+• Smart URLs — Use wildcards (*youtube.com) for subdomains or exact URLs
+• Import/Export — Backup and restore your settings
 
 **Privacy:**
 
-• No data collection — zero analytics, zero tracking
-• No accounts required — works immediately
-• 100% local — everything stays on your device
-• Open source — see exactly what the code does
+No data collection, no accounts, no tracking. Everything stays on your device. 100% free, no premium tiers.
 
-**Perfect for:**
-
-• Remote workers avoiding social media rabbit holes
-• Students studying for exams
-• Anyone trying to break doom-scrolling habits
-• Deep work sessions
-• Digital detox
-
-**Completely free.** No premium tiers, no hidden features, no subscriptions. I built it for myself, figured I'd share.
+Follow [@pip_focus](https://twitter.com/pip_focus) on Twitter and [@pip_focus](https://instagram.com/pip_focus) on Instagram for updates.
 
 ---
 

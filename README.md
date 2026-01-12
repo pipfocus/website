@@ -10,7 +10,7 @@ A Chrome extension that blocks distracting websites to help you stay focused.
 <a href="https://chromewebstore.google.com/detail/focus-mode/ijgbeipckbajgnkjgdhoponeenjdnimn">
   <img src="https://img.shields.io/badge/Chrome%20Web%20Store-Install-blue?logo=googlechrome" alt="Chrome Web Store">
 </a>
-<a href="https://buymeacoffee.com/bugs.included">
+<a href="https://buymeacoffee.com/pipfocus">
   <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?logo=buymeacoffee" alt="Buy Me A Coffee">
 </a>
 <a href="https://twitter.com/pip_focus">
@@ -23,11 +23,11 @@ A Chrome extension that blocks distracting websites to help you stay focused.
 ## Screenshots
 
 <p align="center">
-  <img src="assets/popup.png" alt="Popup" width="280">
-  <img src="assets/stats.png" alt="Stats" width="500">
+  <img src="docs/assets/popup.png" alt="Popup" width="280">
+  <img src="docs/assets/stats.png" alt="Stats" width="500">
 </p>
 <p align="center">
-  <img src="assets/blocked.png" alt="Blocked Page" width="700">
+  <img src="docs/assets/blocked.png" alt="Blocked Page" width="700">
 </p>
 
 ## Features
@@ -61,21 +61,23 @@ A Chrome extension that blocks distracting websites to help you stay focused.
 
 [Full Privacy Policy](PRIVACY.md)
 
-## About This Repository
+## Development
 
-This is the public website repository for Pip Focus. It contains:
+This is the main development repository for Pip Focus. The source code is private, but the extension is fully open source in spirit.
 
-- **Minified website** (`index.html`) - Optimized for fast loading
-- **Documentation** - README, Privacy Policy, and Store Listing
-- **Assets** - Images and media files
+### Repository Structure
+
+- **Main Repo** (this repo): Private development repository containing source code
+- **Website Repo**: [pipfocus/website](https://github.com/pipfocus/website) - Public repository with minified website and documentation
 
 ### Automatic Deployment
 
-This repository is automatically updated via GitHub Actions whenever changes are pushed to the main development repository. The website is built and minified automatically, ensuring the public site always reflects the latest version.
+The website is automatically built and deployed to the public website repository on every push to `main` via GitHub Actions. See [`.github/workflows/README.md`](.github/workflows/README.md) for setup instructions.
 
-### Website
+### Building
 
-Visit the live website: [https://pipfocus.github.io/website/](https://pipfocus.github.io/website/)
+- **Extension**: `npm run preview` or `npm run deploy`
+- **Website**: `npm run build-website` (outputs to `website-dist/`)
 
 ## License
 
