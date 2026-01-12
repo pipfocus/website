@@ -53,6 +53,22 @@ A Chrome extension that blocks distracting websites to help you stay focused.
 
 [Full Privacy Policy](PRIVACY.md)
 
+## About This Repository
+
+This is the public website repository for Pip Focus. It contains:
+
+- **Minified website** (`index.html`) - Optimized for fast loading
+- **Documentation** - README, Privacy Policy, and Store Listing
+- **Assets** - Images and media files
+
+### Automatic Deployment
+
+This repository is automatically updated via GitHub Actions whenever changes are pushed to the main development repository. The website is built and minified automatically, ensuring the public site always reflects the latest version.
+
+### Website
+
+Visit the live website: [https://pipfocus.github.io/website/](https://pipfocus.github.io/website/)
+
 ## License
 
 MIT License
